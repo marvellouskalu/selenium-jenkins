@@ -10,9 +10,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 @pytest.mark.parametrize("username, password, email",
                          [
-                             ("amandyfeight", "hellowworld12345", "amandyfeight@gmail.com"),
-                             ("Golferion", "alice2345", "Goldferion4@yahoo.com"),
-                             ("Kasfkeshy", "alice2345", "Kasfkeshy21@gmail.com"),
+                             ("normankashy", "hellowworld12345", "normankashy@gmail.com"),
+                             ("Golffavor45", "alice2345", "Golffavor45@yahoo.com"),
+                             ("Skinnyjackie07", "alice2345", "Skinnyjackie07@gmail.com"),
                              # Add more data sets here
                          ]
                          )
